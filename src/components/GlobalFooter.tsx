@@ -1,7 +1,7 @@
 function GlobalFooter() {
 	return (
 		<footer>
-			<p>Copyright &copy; 2024 Kiwi Micro</p>
+			<p>Copyright &copy; 2024 Kangaroo Micro</p>
 		</footer>
 	);
 }
